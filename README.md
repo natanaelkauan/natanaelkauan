@@ -32,6 +32,6 @@ align = "left"
     title = "JAVA"
     width = "30 px"
     style = "padding-right: 10 px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-/>
-              
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
+          
