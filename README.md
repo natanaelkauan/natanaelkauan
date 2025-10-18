@@ -1,6 +1,6 @@
 # 👨‍💻 Natanael Mendes
 
-** ` estudande` **
+** ` Desenvolvedor  ` **
 
 Me chamo Natanael Kauan de Lucena Mendes, tenho 21 anos e sou natural da paraíba. Concluí o ensino média na escola integral Monsenhor Manoel Vieira. Atualmente estou cunsando ciência da computação na UEPB.
 
